@@ -8,6 +8,10 @@ import org.springframework.stereotype.Component;
 
 import java.util.Scanner;
 
+/**
+ * Студент группы М3В-237Бк
+ * Мин Данил Вячеславович
+ */
 @Component
 @RequiredArgsConstructor
 public class App {
